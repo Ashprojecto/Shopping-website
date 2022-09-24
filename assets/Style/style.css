@@ -117,6 +117,7 @@ body{
 /*-------------HOME PAGE----------------*/
 
 #hero{
+    background-image: url("summer.jpg");
     height:90vh;
     width:100%;
     background-size:cover;
